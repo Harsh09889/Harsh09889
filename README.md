@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)](https://harshportfolioreact.netlify.app/)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">Highly motivated and results-driven computer science graduate with experience in full-stack web development. Proficient in technologies such as JavaScript, React, Node.js, and MongoDB. Strong understanding of front-end development principles, including responsive design and user experience. Adept at quickly learning new technologies and working in a team environment. Committed to delivering high-quality, efficient and scalable web solutions.</h3>
 <img align="right" alt="coding" src = "https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width=400>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh09889&label=Profile%20views&color=0e75b6&style=plastic" alt="harsh09889" /> </p>
